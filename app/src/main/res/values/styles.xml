@@ -15,4 +15,10 @@
 
     </style>
 
+    <style name="FlatButton" parent="Widget.AppCompat.Button.Borderless">
+
+        <item name="android:textColor">@color/colorFlatButton</item>
+
+    </style>
+
 </resources>
